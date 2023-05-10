@@ -1,0 +1,4 @@
+1.overfitting solutions
+2.methods of feature selection
+3.bias-varience tradeoff
+4.Linear regression drawbacks
